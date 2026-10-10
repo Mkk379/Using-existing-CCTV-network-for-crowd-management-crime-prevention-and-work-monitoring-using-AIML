@@ -1,0 +1,8 @@
+ultralytics>=8.3.0
+opencv-python>=4.8
+numpy
+Pillow
+# Needed only for the torch.hub fallback that loads the original yolov5s.pt
+pandas
+seaborn
+gitpython
